@@ -62,10 +62,10 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosNegativosPositivos" time="0.004"/>
-  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveMultiplicarNumerosPositivos" time="0"/>
+  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosNegativosPositivos" time="0.001"/>
+  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveMultiplicarNumerosPositivos" time="0.001"/>
   <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosNegativos" time="0"/>
-  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveMultiplicarNumerosNegativos" time="0"/>
+  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveMultiplicarNumerosNegativos" time="0.001"/>
   <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosPositivosNegativos" time="0"/>
-  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosPositivos" time="0"/>
+  <testcase classname="br.edu.unifacef.business.CalculosTest" name="deveSomarNumerosPositivos" time="0.001"/>
 </testsuite>
