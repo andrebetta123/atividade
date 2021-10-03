@@ -1,7 +1,6 @@
 # atividade
 
-# facef-pos-testes
-Projeto de demonstração quanto a aplicação para a prática de testes automatizados - unitários e simulação de mock de dependências.
+Projeto de entrega para conclusão de curso.
 
 ## Setup
 * java 11
@@ -17,4 +16,7 @@ Projeto de demonstração quanto a aplicação para a prática de testes automat
 `mvn clean package`
 
 ## Gerar imagem
-`docker build -t nome:version .`
+`docker build -t atividade:v1.0.0 .`
+
+## Rodar imagem
+`docker run atividade:v1.0.0 .`
